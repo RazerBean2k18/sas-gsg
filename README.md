@@ -1,3 +1,8 @@
+---
+coverY: 0
+layout: landing
+---
+
 # 🌐 Willkommen
 
 Dieses Wiki sorgt für die optimale Nutzung unseres gemeinesamen Schule als Staat Netzwerkes.
