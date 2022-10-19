@@ -4,12 +4,17 @@
 
 ## Bürger:innen
 
-* [Page 1](buerger-innen/page-1.md)
+* [Bürger Accounts](buerger-innen/buerger-accounts.md)
+* [Online-Banking](buerger-innen/online-banking.md)
 
 ## Unternehmer:innen
 
-* [Page 2](unternehmer-innen/page-2.md)
+* [Mitarbeiter](unternehmer-innen/mitarbeiter.md)
 
 ## Visa
 
-* [Page 3](visa/page-3.md)
+* [Visa-Übersicht](visa/visa-uebersicht.md)
+
+## Institutionen
+
+* [Page 4](institutionen/page-4.md)
