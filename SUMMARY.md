@@ -17,4 +17,4 @@
 
 ## Institutionen
 
-* [Page 4](institutionen/page-4.md)
+* [Bank](institutionen/bank.md)
